@@ -1,6 +1,6 @@
 # GeoServer-Leaflet
 
-# visualisation 
+# Visualisation 
 
 The objective of this project is to visualize data located on a geoserver and to visualize them with Leaflet.
 
