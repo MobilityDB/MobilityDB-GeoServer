@@ -18,7 +18,7 @@ The objective of this project is to visualize data located on a geoserver and to
 
 - Run ```npm install``` in the working directory
 - Start your Geoserver server
-- Run the script and see result in the web  brower on ```localhost:63342```
+- Run the script and see result in the web  brower on ```localhost:8080```
 
 
 # Dataset used
