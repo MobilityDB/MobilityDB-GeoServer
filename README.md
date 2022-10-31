@@ -9,7 +9,8 @@ The objective of this project is to visualize data located on a geoserver and to
 - npm (version 8.15.0 used in our work)
 - Geoserver (version 2.21 used in our work)
   - Windows tutorial  for Geoserver installation : https://www.youtube.com/watch?v=F7dDVD8WzKo
-  - Linux tutorial for Geoserver installation : https://docs.geoserver.org/latest/en/user/installation/linux.html
+  - Linux tutorial for Geoserver installation : https://docs.geoserver.org/latest/en/user/installation/linux.html 
+    or https://medium.com/random-gis-talks/installing-geoserver-binary%EF%B8%8F-on-ubuntu-18-04-using-terminal-ff9429ab47fa
   - MacOS tutorial for Geoserver installation : https://docs.geoserver.org/latest/en/user/installation/osx_installer.html
 - Leaflet
 
